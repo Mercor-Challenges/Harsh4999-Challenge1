@@ -1,0 +1,32 @@
+{
+    "java.project.sourcePaths": [],
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "xstddef": "cpp",
+        "cstdlib": "cpp",
+        "queue": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "valarray": "cpp",
+        "xstring": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "forward_list": "cpp",
+        "string": "cpp"
+    }
+}
